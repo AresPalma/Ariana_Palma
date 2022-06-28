@@ -1,0 +1,20 @@
+body{
+    height: 100vh;
+    background-color: #289731c7;
+}
+main{
+    width: 500px;
+    border: 1px solid black;
+    text-align: center;
+}
+header{
+    background: url("https://img.freepik.com/fotos-gratis/folhas-amarelas-das-arvores-no-ceu-solar-de-fundo_627829-11559.jpg?t=st=1656424642~exp=1656425242~hmac=341580367a9e46e0713b55c25405949f87ab39eda479c86271e9f70e0c554c4e&w=740");
+    background-size: cover;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    transform: translateY(-50%);
+    border: 8px solid white;
+}
