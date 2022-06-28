@@ -2,6 +2,14 @@ body{
     height: 100vh;
     background-color: #289731c7;
 }
+a{
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+}
+a:hover{
+    color:rgb(212, 26, 26) ;
+}
 main{
     width: 500px;
     border: 1px solid black;
